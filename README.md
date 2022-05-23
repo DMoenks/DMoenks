@@ -5,7 +5,7 @@
 - Microsoft cloud services 
 
 🤓 I currently learn...  
-- Microsoft Information Protection and connected services
+- GitHub, while strolling through Microsoft documentation repositories
 
 🤩 I look to collaborate on...  
 - any kind of Microsoft 365 service automation
