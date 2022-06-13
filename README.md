@@ -11,8 +11,8 @@
 - any kind of Microsoft 365 service automation
 
 🤫 You can reach me...  
-- on GitHub as DMoenks
 - on Gmail as dominik.moenks
+- on LinkedIn as dmoenks
 
 <!---
 DMoenks/DMoenks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
